@@ -1,4 +1,4 @@
-import React from "react";
+
 import './styles.css';
 import Flexcontainer from "./Flexcontainer";
 import Footer from "./secondbox/Footer";

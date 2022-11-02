@@ -1,4 +1,4 @@
-import React from "react";
+
 import Firstbox from "./Firstbox";
 import Secondbox from "./secondbox/Secondbox";
 
