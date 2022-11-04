@@ -151,7 +151,7 @@ function Topprojects() {
       <div>
         <h2 className="h2">
           
-          Software Developer (Backend) | csmtschools.com.ng{" "}
+          Software Developer (Backend) | csmtschools.com.ng
         </h2>
         <p className="micro"> <FontAwesomeIcon className="fa-tint" icon={faTint} /> Top Task Done </p>
         <ul>

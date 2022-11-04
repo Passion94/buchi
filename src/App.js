@@ -1,7 +1,7 @@
 
 import './styles.css';
-import Flexcontainer from "./Flexcontainer";
-import Footer from "./secondbox/Footer";
+import Flexcontainer from './Flexcontainer';
+import Footer from './secondbox/Footer';
 
 function App (){
     return ( 
